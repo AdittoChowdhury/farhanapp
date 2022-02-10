@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950255184315",
+    "project_id": "farhanapp-8bc0e",
+    "storage_bucket": "farhanapp-8bc0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950255184315:android:f8f082170bca3d90207c9e",
+        "android_client_info": {
+          "package_name": "com.example.farhan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950255184315-3jnckbg0te4o18497th457fj782u5csi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3fL3iIzbamnZvAI9wS11aInIfooZj9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950255184315-3jnckbg0te4o18497th457fj782u5csi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
